@@ -35,9 +35,9 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <h4>Frontend / UI</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaFX" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 <h4>Backend / Frameworks / Libraries</h4>
@@ -48,7 +48,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_ASP.NET_Logo.png" alt="ASP.NET" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
 </p>
 
 <h4>Databases</h4>
@@ -68,11 +68,13 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 
+
+
 ---
 
 <h3 align="left">🌱 Currently Learning & Exploring:</h3>
 <p>
-I’m continuously building small projects, exploring new frameworks, and improving my problem-solving skills. I want to deepen my knowledge in AI, DevOps, and advanced backend technologies while growing as a more confident and capable developer.
+I’m building small projects and exploring new frameworks to improve my skills. I want to get better at AI, DevOps, cloud services, and advanced backend technologies, while becoming a more confident and capable developer.
 </p>
 
 ---
