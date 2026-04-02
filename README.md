@@ -35,6 +35,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <h4>Frontend / UI</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+ <br><br>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
