@@ -2,7 +2,7 @@
 <h3 align="center">An Information Technology student and aspiring Full Stack Developer</h3>
 
 <p align="center">
-I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beginner-level C#. I’ve worked with frameworks like Django, Laravel, ASP.NET, React.js, and JavaFX, and frontend tools like Tailwind CSS and Bootstrap. I’m familiar with PostgreSQL and MySQL databases, and I’m continuously learning, building projects, and improving my software development skills.
+I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beginner-level C# . I’ve worked with frameworks like Django,Express, Laravel, ASP.NET, React.js, and JavaFX, and frontend tools like Tailwind CSS and Bootstrap. I’m familiar with PostgreSQL and MySQL databases, and I’m continuously learning, building projects, and improving my software development skills.
 </p>
 
 ---
@@ -78,7 +78,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 
 <h3 align="left">🌱 Currently Learning & Exploring:</h3>
 <p>
-I’m building small projects and exploring new frameworks to improve my skills. I want to get better at AI, DevOps, cloud services, and advanced backend technologies, while becoming a more confident and capable developer.
+I want to try building small projects and exploring new frameworks to improve my skills. I want to expand my knowledge such as learning  AI, DevOps, cloud services, and advanced backend technologies, while becoming a more confident and capable developer.
 </p>
 
 ---
