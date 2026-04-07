@@ -75,12 +75,12 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 </p>
 
 ---
-<h3 align="left">Projects Built:</h3>
+<h3 align="left"> Projects Built:</h3>
 <table>
 <tr>
 <th>Project Name</th>
 <th>Description</th>
-<th>Technology Used</th>
+<th>Built With</th>
 </tr>
 <tr>
 <td>Paolitos GUI</td>
@@ -96,6 +96,16 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <td>Threadly</td>
 <td>A clothing marketplace platform for buying and selling thrift and second-hand clothes, promoting sustainable fashion and affordable style.</td>
 <td>PHP, Tailwind CSS, MySQL</td>
+</tr>
+<tr>
+<td>Eden Sylvan</td>
+<td>An adventure game where you explore a mystical world, solve puzzles, and complete quests.</td>
+<td>C#</td>
+</tr>
+<tr>
+<td>The Knight Named Sam</td>
+<td>A Mario-like pixel game where you play as a knight navigating obstacles and defeating enemies, built using Godot’s GDScript.</td>
+<td>GDScript</td>
 </tr>
 </table>
 
