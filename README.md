@@ -99,7 +99,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 </tr>
 <tr>
 <td>Eden Sylvan</td>
-<td>An adventure game where you explore a mystical world (Still not finished).</td>
+<td>An adventure game where you explore a mysterious world (Still not finished).</td>
 <td>C#</td>
 </tr>
 <tr>
