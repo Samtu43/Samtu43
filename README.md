@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sam Mariscal</h1>
-<h3 align="center">An Information Technology student and aspiring Full Stack Developer</h3>
+<h1 align="center">Good Day Sire! My name is Sam Mariscal</h1>
+<h3 align="center">An Information Technology student and aspiring Full Stack Developer(Beginner)</h3>
 
 <p align="center">
-I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beginner-level C# . I’ve worked with frameworks like Django,Express, Laravel, ASP.NET, React.js, and JavaFX, and frontend tools like Tailwind CSS and Bootstrap. I’m familiar with PostgreSQL and MySQL databases, and I’m continuously learning, building projects, and improving my software development skills.
+I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beginner-level C# . I’ve worked with frameworks like Django,Express, Laravel, ASP.NET, React.js, and JavaFX, and frontend tools like Tailwind CSS and Bootstrap. I’m familiar with PostgreSQL and MySQL databases,beginner-level MongoDB and I’m continuously learning, building projects, and improving my software development skills.
 </p>
 
 ---
@@ -75,6 +75,30 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 </p>
 
 ---
+<h3 align="left">📂 Projects Built:</h3>
+<table>
+<tr>
+<th>Project Name</th>
+<th>Description</th>
+<th>Tech Stack</th>
+</tr>
+<tr>
+<td>Paolitos GUI</td>
+<td>A restaurant reservation system where customers can view dishes and book tables. It includes table management, menu display, and booking features.</td>
+<td>Java, JavaFX, MySQL</td>
+</tr>
+<tr>
+<td>GymBooking (Abellana Sports Booking System)</td>
+<td>A gym and sports booking system for Abellana Sports in Cebu, allowing users to reserve courts depending on the sport they want to play, such as basketball, swimming, etc.</td>
+<td>Java, JavaFX GUI, MySQL</td>
+</tr>
+<tr>
+<td>Threadly</td>
+<td>A clothing marketplace platform for buying and selling thrift and second-hand clothes, promoting sustainable fashion and affordable style.</td>
+<td>PHP, Tailwind CSS, MySQL</td>
+</tr>
+</table>
+
 
 <h3 align="left">🌱 Currently Learning & Exploring:</h3>
 <p>
