@@ -7,7 +7,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 
 ---
 
-<h3 align="left">📫 Contact Me:</h3>
+<h3 align="left"> Contact Me:</h3>
 <p align="left">
 <a href="mailto:sammiermariscal@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/mariscal-sam-m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
@@ -19,7 +19,7 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 
 ---
 
-<h3 align="left">💻 Skills & Tools:</h3>
+<h3 align="left">Skills & Tools:</h3>
 
 <h4>Programming Languages</h4>
 <p>
@@ -75,12 +75,12 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 </p>
 
 ---
-<h3 align="left">📂 Projects Built:</h3>
+<h3 align="left">Projects Built:</h3>
 <table>
 <tr>
 <th>Project Name</th>
 <th>Description</th>
-<th>Tech Stack</th>
+<th>Technology Used</th>
 </tr>
 <tr>
 <td>Paolitos GUI</td>
