@@ -104,8 +104,8 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 </tr>
 <tr>
 <td>The Knight Named Sam</td>
-<td>A Mario-like pixel game where you play as a knight navigating obstacles and defeating enemies, built using Godot’s GDScript.</td>
-<td>GDScript</td>
+<td>A Mario-like pixel game where you play as a knight navigating obstacles and defeating enemies, built using *secret**.</td>
+<td>**secret*#</td>
 </tr>
 </table>
 
