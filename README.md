@@ -83,12 +83,12 @@ I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beg
 <th>Built With</th>
 </tr>
 <tr>
-<td>Paolitos GUI</td>
+<td>Paolitos </td>
 <td>A restaurant reservation system where customers can view dishes and book tables. It includes table management, menu display, and booking features.</td>
 <td>Java, JavaFX, MySQL</td>
 </tr>
 <tr>
-<td>GymBooking (Abellana Sports Booking System)</td>
+<td>Abellana Playbook</td>
 <td>A gym and sports booking system for Abellana Sports in Cebu, allowing users to reserve courts depending on the sport they want to play, such as basketball, swimming, etc.</td>
 <td>Java, JavaFX GUI, MySQL</td>
 </tr>
