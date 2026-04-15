@@ -1,5 +1,5 @@
 <h1 align="center">Good Day Sire! My name is Sam Mariscal</h1>
-<h3 align="center">An Information Technology student and aspiring Full Stack Developer(Beginner)</h3>
+<h3 align="center">An Information Technology student and aspiring (Gahunahuna pa) Developer(Beginner)</h3>
 
 <p align="center">
 I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and beginner-level C# . I’ve worked with frameworks like Django,Express, Laravel, ASP.NET, React.js, and JavaFX, and frontend tools like Tailwind CSS and Bootstrap. I’m familiar with PostgreSQL and MySQL databases,beginner-level MongoDB and I’m continuously learning, building projects, and improving my software development skills.
