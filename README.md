@@ -17,23 +17,23 @@ I continuously build projects and improve my software development skills.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/mariscal-sam-m" target="_blank">
+<a href="https://youtu.be/xvFZjo5PgG0?si=Srl94SH2OedTkzlY" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 
-<a href="https://www.facebook.com/sam.mariscal" target="_blank">
+<a href="https://youtu.be/xvFZjo5PgG0?si=Srl94SH2OedTkzlY" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
 </a>
 
-<a href="https://instagram.com/sammiermariscal" target="_blank">
+<a href="https://youtu.be/xvFZjo5PgG0?si=Srl94SH2OedTkzlY" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
 
-<a href="https://www.youtube.com/c/sam2mariscal" target="_blank">
+<a href="https://youtu.be/xvFZjo5PgG0?si=Srl94SH2OedTkzlY" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
 </a>
 
-<a href="https://discord.gg/mariscalsam" target="_blank">
+<a href="https://youtu.be/xvFZjo5PgG0?si=Srl94SH2OedTkzlY" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/>
 </a>
 </p>
