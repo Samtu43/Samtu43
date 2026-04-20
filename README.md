@@ -2,12 +2,12 @@
 <h3 align="center">An Information Technology Student and Aspiring Software Developer</h3>
 
 <p align="center">
-I’m an IT student with experience in PHP, Java, C, JavaScript, Python, and basic C#. 
-I’ve worked with frameworks like Django, Express, Laravel, ASP.NET, React.js, and JavaFX, 
+I'm an IT student with experience in  Java, C, JavaScript, Python, basic PHP, and basic C#. 
+I've worked with frameworks like Django, Express, Laravel, ASP.NET, React.js, and JavaFX, Asp.net 
 along with frontend tools like Tailwind CSS and Bootstrap. 
 
 I’m familiar with PostgreSQL and MySQL, with basic knowledge in MongoDB and Firebase. 
-I continuously build projects and improve my software development skills.
+I'm continuously learning and hoping improve my software development skills.
 </p>
 
 <h3 align="left">Contact Me:</h3>
@@ -127,7 +127,7 @@ Secret
 <tr>
 <td>Eden Sylvan</td>
 <td>An adventure game currently in development.</td>
-<td>C#</td>
+<td>Confidential</td>
 </tr>
 
 <tr>
