@@ -141,6 +141,7 @@ Secret
 ---
 
 <h3 align="left">🌱 Currently Learning & Exploring:</h3>
+
 <p>
 I am exploring AI, DevOps, cloud services, and advanced backend development 
 while continuously improving my problem-solving and coding skills.
@@ -148,9 +149,21 @@ while continuously improving my problem-solving and coding skills.
 
 ---
 
-<h3 align="left">☕ Support Me:</h3>
-<p>
+<table>
+<tr>
+<td width="50%" align="left">
+
+<h3>☕ Support Me:</h3>
 <a href="https://www.buymeacoffee.com/sammariscal">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" style="border:none; outline:none;"/>
 </a>
-</p>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="Qoute.jpg" height="300" style="border:none; outline:none;"/>
+
+</td>
+</tr>
+</table>
