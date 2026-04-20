@@ -3,7 +3,7 @@
 
 <p align="center">
 I'm an IT student with experience in  Java, C, JavaScript, Python, basic PHP, and basic C#. 
-I've worked with frameworks like Django, Express, Laravel, ASP.NET, React.js, and JavaFX, Asp.net 
+I've worked with frameworks like Django, Express, Laravel, React.js, and JavaFX, Asp.net 
 along with frontend tools like Tailwind CSS and Bootstrap. 
 
 I’m familiar with PostgreSQL and MySQL, with basic knowledge in MongoDB and Firebase. 
