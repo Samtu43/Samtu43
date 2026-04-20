@@ -126,7 +126,7 @@ Secret
 
 <tr>
 <td>Eden Sylvan</td>
-<td>An adventure game currently in development.</td>
+<td>An adventure game exploring a mystical world still not finished though.</td>
 <td>Confidential</td>
 </tr>
 
