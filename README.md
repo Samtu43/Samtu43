@@ -149,9 +149,25 @@ while continuously improving my problem-solving and coding skills.
 
 ---
 
-<img src="Qoutes.jpg" height="1200"/>
+<div style="display: inline-block; vertical-align: top; width: 45%;">
+
+  <img src="Qoutes.jpg" width="100%"/>
+
+</div>
+
+<div style="display: inline-block; vertical-align: top; width: 50%; padding-left: 20px;">
+
+  <h3>Overview</h3>
+
+  <p>
+ <em> If i stop now, how will i ever become what i want to be?</em>
+  </p>
+
+</div>
 
 ---
+
+
 <h3> Support Me:</h3>
 <a href="https://www.buymeacoffee.com/sammariscal">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" style="border:none; outline:none;"/>
