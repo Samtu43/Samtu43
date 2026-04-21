@@ -2,7 +2,7 @@
 <h3 align="center">An Information Technology Student and Aspiring Software Developer</h3>
 
 <p align="center">
-I'm an IT student with experience in  Java, C, JavaScript, Python, basic PHP, and basic C#. 
+I'm an IT student with experience in  Java, C, JavaScript, Python, basic PHP,basic C# and learning Kotlin. 
 I've worked with frameworks like Django, Express, Laravel, React.js, and JavaFX, Asp.net 
 along with frontend tools like Tailwind CSS and Bootstrap. 
 
