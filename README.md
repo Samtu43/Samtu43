@@ -2,7 +2,7 @@
 <h3 align="center">An Information Technology Student and Aspiring Software Developer</h3>
 
 <p align="center">
-I'm an IT student with experience in  Java, C, JavaScript, Python, basic PHP,basic C# and learning Kotlin. 
+I'm an IT student with experience in  Java, C, JavaScript, Python, C#, and basic PHP . 
 I've worked with frameworks like Django, Express, Laravel, React.js, and JavaFX, Asp.net 
 along with frontend tools like Tailwind CSS and Bootstrap. 
 
@@ -50,7 +50,7 @@ I'm continuously learning and hoping improve my software development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
+<!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>-->
 </p>
 
 <h4>Frontend / UI</h4>
