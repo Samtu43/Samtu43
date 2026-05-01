@@ -75,14 +75,10 @@ I'm continuously learning and hoping improve my software development skills.
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="images.png" width="40"/>
 </p>
 
-<h4>Backend</h4>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-<img src="images.png" width="40"/>
-</p>
+
 
 <h4>Databases</h4>
 <p>
