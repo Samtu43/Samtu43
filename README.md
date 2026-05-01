@@ -1,4 +1,4 @@
-<h1 align="center">Good Day Sire! My name is Sam Mariscal</h1>
+<h1 align="center">Good Day Sire! My name is Mark</h1>
 <h3 align="center">An Information Technology Student and Aspiring Software Developer</h3>
 
 <p align="center">
@@ -50,31 +50,38 @@ I'm continuously learning and hoping improve my software development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<!--<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" width="40"/>
 </p>
 
-<h4>Frontend / UI</h4>
+<h4>App Development (Mobile)</h4>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="40"/>
+</p>
+
+<h4>Web Development</h4>
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://vitejs.dev/logo.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
 </p>
 
 <h4>Backend</h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="images.png" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-</p>
-
-<h4>Frameworks / Libraries</h4>
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://vitejs.dev/logo.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="images.png" width="40"/>
 </p>
 
 <h4>Databases</h4>
@@ -83,22 +90,19 @@ I'm continuously learning and hoping improve my software development skills.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="firebase-logo-icon-free-png.webp" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/>
+</p>
+
+<h4>Game Development</h4>
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" width="40"/>
 </p>
 
 <h4>Hardware / Embedded</h4>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
-
-<h4>Game Engines</h4>
-<p>
-Secret
-<!-- Unity hidden intentionally -->
-</p>
-
----
-
 <h3 align="left">Projects Built:</h3>
 <table>
 <tr>
