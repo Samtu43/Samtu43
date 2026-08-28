@@ -100,42 +100,21 @@ I'm continuously learning and hoping improve my software development skills.
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
 </p>
 <h3 align="left">Projects Built:</h3>
-<table>
-<tr>
-<th>Project Name</th>
-<th>Description</th>
-<th>Built With</th>
-</tr>
+<table> <tr> <th>Project Name</th> <th>Description</th> <th>Built With</th> </tr>
 
-<tr>
-<td>Paolitos</td>
-<td>A restaurant reservation system with table management and booking features.</td>
-<td>Java, JavaFX, MySQL</td>
-</tr>
+<tr> <td>Paolitos</td> <td>A restaurant reservation system with table management and booking features.</td> <td>Java, JavaFX, MySQL</td> </tr>
 
-<tr>
-<td>Abellana Playbook</td>
-<td>A sports booking system for reserving courts and facilities.</td>
-<td>Java, JavaFX, MySQL</td>
-</tr>
+<tr> <td>Abellana Playbook</td> <td>A sports booking system for reserving courts and facilities.</td> <td>Java, JavaFX, MySQL</td> </tr>
 
-<tr>
-<td>Threadly</td>
-<td>A clothing marketplace for buying and selling second-hand clothes.</td>
-<td>PHP, Tailwind CSS, MySQL</td>
-</tr>
+<tr> <td>Threadly</td> <td>A clothing marketplace for buying and selling second-hand clothes.</td> <td>PHP, Tailwind CSS, MySQL</td> </tr>
 
-<tr>
-<td>Eden Sylvan</td>
-<td>An adventure game exploring a mystical world still not finished though.</td>
-<td>Confidential</td>
-</tr>
+<tr> <td>Eden Sylvan</td> <td>An adventure game exploring a mystical world, currently still in development.</td> <td>Confidential</td> </tr>
 
-<tr>
-<td>The Knight Named Sam</td>
-<td>A pixel-style platformer game with combat and obstacles.</td>
-<td>Confidential</td>
-</tr>
+<tr> <td>The Knight Named Sam</td> <td>A pixel-style platformer game with combat and obstacles.</td> <td>Confidential</td> </tr>
+
+<tr> <td>Cbrein</td> <td>A SaaS project designed for various tools and applications, featuring AI-powered and utility-based functionality.</td> <td>MediaPipe, TypeScript, Node.js, and more</td> </tr>
+
+<tr> <td>Mapbroom</td> <td>An AI-integrated mapping application with an interactive map and chatbot assistant to help users explore and interact with map data.</td> <td>Node.js, React, Leaflet, Groq</td> </tr>
 
 </table>
 
