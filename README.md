@@ -116,6 +116,7 @@ I'm continuously learning and hoping improve my software development skills.
 
 <tr> <td>Mapbroom</td> <td>An AI-integrated mapping application with an interactive map and chatbot assistant to help users explore and interact with map data.</td> <td>Node.js, React, Leaflet, Groq</td> </tr>
 
+<tr> <td>Wing</td> <td>A mobile application that tracks users' screen time and restricts access to selected apps based on customizable time limits. </td> <td> Flutter, Dart</td> </tr>
 </table>
 
 ---
