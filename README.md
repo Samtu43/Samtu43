@@ -108,9 +108,9 @@ I'm continuously learning and hoping improve my software development skills.
 
 <tr> <td>Threadly</td> <td>A clothing marketplace for buying and selling second-hand clothes.</td> <td>PHP, Tailwind CSS, MySQL</td> </tr>
 
-<tr> <td>Eden Sylvan</td> <td>An adventure game exploring a mystical world, currently still in development.</td> <td>Confidential</td> </tr>
+<tr> <td>Eden Sylvan</td> <td>An adventure game exploring a mystical world, currently still in development.</td> <td></td> </tr>
 
-<tr> <td>The Knight Named Sam</td> <td>A pixel-style platformer game with combat and obstacles.</td> <td>Confidential</td> </tr>
+<tr> <td>The Knight Named Sam</td> <td>A pixel-style platformer game with combat and obstacles.</td> <td></td> </tr>
 
 <tr> <td>Cbrein</td> <td>A SaaS project designed for various tools and applications, featuring AI-powered and utility-based functionality.</td> <td>MediaPipe, TypeScript, Node.js, Express.js</td> </tr>
 
